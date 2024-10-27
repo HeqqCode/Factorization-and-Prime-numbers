@@ -1,4 +1,7 @@
-#Explanation
+h1 {
+    font-size: 3em;
+}
+<h1> Welcome to my pogram</h1>
   
 _You are asked to input an integer_
   
@@ -11,3 +14,6 @@ _You are asked to input an integer_
 **Then, it processes the input and uses a simple alogrithm to find all the pairs of that number**
   
 **finally,it puts em all in a list ig and then prints em**
+
+
+#
